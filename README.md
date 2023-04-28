@@ -8,7 +8,5 @@
       or contact me: 📲 +55 81 98644-5947
 
 <div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirbiel100) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirbiel100&count_private=true) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirbiel100&show_icons=true) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirbiel100&show_icons=true&theme=dracula)]
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sirbiel100&show_icons=true&theme=codeSTACKr" />
 </div>
