@@ -1,8 +1,8 @@
-### Welcome!! 👋
+### Welcome to my github!! 👋
 
-- 🔭 I’m currently working on javascript, react and nextjs!
-- 📫 How to reach me: https://www.linkedin.com/in/gabriel-crispim-5b6945221/ 
-      or contact me: 📲 +55 81 98644-5947
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabriel-crispim-5b6945221/)
+- 💻 Or my personal website: [Gabriel Crispim Website](https://gabriel-crispim-portfolio-sirbiel100.vercel.app/) 
+- 📲 Or contact me: +55 81 98644-5947
 
 <div align="center">
       <br><p align="centre"><b>contagem de visitantes</b></p>  
