@@ -17,3 +17,5 @@ Currently learning: <br>
 
 [![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FDEC96&height=120&section=footer"/>
+
