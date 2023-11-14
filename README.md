@@ -10,4 +10,9 @@
       <br>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,html,css,sass,ps,figma,git)](https://skillicons.dev)
+<div align="center">
+      Tech stack:<br>
+            [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,html,css,sass,ps,figma,git)](https://skillicons.dev)<br>
+      Currently learning:<br>
+            [![My Skills](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
+</div>
