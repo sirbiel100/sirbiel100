@@ -5,7 +5,7 @@
 - 📲 Or contact me: +55 81 98644-5947
 
 <div align="center">
-      <br><p align="centre"><b>contagem de visitantes</b></p>  
+      <br><p align="centre"><b>Visits:</b></p>  
       <p align="center"><img align="center" src="https://profile-counter.glitch.me/{sirbiel100}/count.svg" /></p> 
       <br>
 </div>
