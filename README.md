@@ -16,7 +16,7 @@
 </div>
 Tech stack: <br>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,react,typescript,nextjs,html,sass,ps,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,react,typescript,nextjs,sass,ps,figma)](https://skillicons.dev)
 
 Currently learning: <br>
 
