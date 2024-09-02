@@ -16,11 +16,11 @@
 </div>
 Tech stack: <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,nextjs,html,css,sass,ps,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,react,typescript,nextjs,html,sass,ps,figma)](https://skillicons.dev)
 
 Currently learning: <br>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FDEC96&height=120&section=footer"/>
